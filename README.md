@@ -3,7 +3,7 @@
 Bases para el aprendizaje de typescript
 
 
-### Bases
+### Bases
 Dentro de la carpeta bases se encuentra ejemplos dividido por secciones sobre las bases de typescript.
 
 1. Tipos basicos - Funciones
